@@ -1,0 +1,111 @@
+body {background-color:silver;}
+div.top	{
+	background: silver;
+	padding-top:2%;
+	}
+
+/* layout */
+
+
+* {
+	margin: 0;
+	padding: 0;
+}
+
+#wrapper {
+	width: 60%;
+	height:70%;
+	background: white;
+	margin: 0 auto;
+	-moz-border-radius: 10px;
+	border-radius: 10px;
+	-moz-box-shadow: 0 0 5px 5px #888;
+	-webkit-box-shadow: 0 0 5px 5px#888;
+	box-shadow: 0 0 5px 5px #888;
+	
+}
+
+#header {
+	background: black;
+	color: white;
+	text-align: center;
+	border-top-right-radius: 5px;
+	border-top-left-radius: 5px;
+	
+}
+#meny {
+	background: black;
+	
+	padding-top:10px;
+	padding-bottom:10px;
+	
+	
+}
+
+
+
+#column-center {
+	width: 90%;
+	float: left;
+	background: white;
+	padding-top:3%;
+	padding-bottom:50%;
+	
+	
+	
+}
+
+#column-right {
+	width: 10.1%;
+	float: right;
+	background: white;
+	padding-top:0%;
+	padding-bottom:50%;
+	
+	
+}
+
+#footer {
+	clear: both;
+	background: black;
+	padding-top: 2%;
+	padding-bottom: 2%;
+	border-bottom-right-radius: 5px;
+	border-bottom-left-radius: 5px;
+}
+#mellomt {
+	background: white;
+	padding-top:1%;
+	}
+#mellomb {
+	background:white;
+	padding-top:1%;
+	}
+#top	{
+	background: white;
+	padding-top:1%;
+	}
+/* skrift stil */
+
+ p.meny2 {
+ 	color: white;
+ 	word-spacing: 100px; 
+ 	text-align: center;
+ 	font-family:myriad pro,Helvetica,sans-serif;
+ 	font-size:1.5em;
+ 	
+}
+p.stilark {
+	color: white;
+ 	text-align: right;
+ 	font-family:myriad pro,Helvetica,sans-serif;
+ 	font-size:11pt;
+ 	
+ 	}
+
+h2{
+text-align: center;}
+
+A:hover   {  background-color: brown; text-decoration: none}
+
+
